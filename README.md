@@ -7,6 +7,7 @@ con conocimientos en HTML y CSS, y experiencia práctica desarrollando proyectos
 Busco una oportunidad como desarrollador junior para seguir creciendo y aportar con compromiso, creatividad y atención al detalle.
 ----
 
+
 **habilidades**😎
 
 
@@ -22,16 +23,13 @@ entornos.
 
 
 
-
-
 **HABILIDADES TECNICAS**⛓️‍💥
 
 <img src="https://github.com/user-attachments/assets/2ac865ec-e39a-48b9-964d-9229c5cd2ee1" height="40">
 <img src="https://github.com/user-attachments/assets/dea74442-b252-4866-ac6e-e97c35e27609" height="40">
 <img src="https://github.com/user-attachments/assets/300e4132-493c-4281-abdd-416206a7a5f2" height="40">
 <img src="https://github.com/user-attachments/assets/910cd089-a153-4ff4-af87-9b722ea7572f" height="40">
-
-
+<img src="https://github.com/user-attachments/assets/3e6561bd-117e-47f8-b776-854c67aae002" height="40">
 
 
 
